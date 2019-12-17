@@ -9,7 +9,7 @@ http://localhost:8080/swagger-ui.html
 5. Copy below url for in memory DB instance
 http://localhost:8080/h2-console
 
-6. change jdbc url as below and connect
+6. change jdbc url as below and connect as 
 jdbc:h2:mem:TEST
 
 change db url, driver class, username as per    
